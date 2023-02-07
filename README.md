@@ -1,4 +1,11 @@
-# Shopify App Node
+# Show files and Folders from Dropbox - Shopify App
+
+## Demo:
+
+<img width="528" alt="image" src="https://user-images.githubusercontent.com/71909026/217378906-b74cc3b7-1890-4d03-9f75-6c50ad3da307.png">
+
+To see more updates about the app:
+https://twitter.com/BrLlach/status/1539784997468618754 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE.md)
 
